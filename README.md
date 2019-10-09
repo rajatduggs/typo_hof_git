@@ -5,3 +5,5 @@
 * one
 * two
 * three
+* Point added through branch
+* Learning Branching in Git
